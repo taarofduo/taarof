@@ -88,4 +88,10 @@ main.reports {
   display: block;
   margin: 1rem 0;
 }
+/* Push the video down a little in the evidences block */
+.item-evidences iframe,
+.embedded-video {
+  display: block;       /* ensure it sits on its own line */
+  margin-top: 0.75rem;  /* adjust this to taste */
+}
 
