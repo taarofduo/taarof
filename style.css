@@ -80,3 +80,12 @@ main.reports {
 .item-evidences a:hover {
   color: #fff;
 }
+/* constrain embedded videos */
+.embedded-video {
+  width: 100%;        /* fill its container */
+  max-width: 400px;   /* but no wider than 400px */
+  height: auto;       /* keep the correct aspect ratio */
+  display: block;
+  margin: 1rem 0;
+}
+
