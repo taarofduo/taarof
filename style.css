@@ -30,7 +30,7 @@ main.center a:hover {
 
 /* Reports page container */
 main.reports {
-  max-width: 50vw;
+  max-width: 80vw;
   margin: 2rem auto;
   padding: 0 2rem;
   text-align: left;
@@ -94,4 +94,12 @@ main.reports {
   display: block;       /* ensure it sits on its own line */
   margin-top: 0.75rem;  /* adjust this to taste */
 }
+.evidence-image {
+  display: block;
+  width: 200px;       /* new fixed width */
+  height: auto;       /* auto-scale height to preserve aspect ratio */
+  margin: 0.75rem 0;
+  border: 1px solid #444;
+}
+
 
