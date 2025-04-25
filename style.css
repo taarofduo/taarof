@@ -83,10 +83,10 @@ main.reports {
 /* constrain embedded videos */
 .embedded-video {
   width: 100%;        /* fill its container */
-  max-width: 400px;   /* but no wider than 400px */
+  max-width: 600px;   /* but no wider than 400px */
   height: auto;       /* keep the correct aspect ratio */
   display: block;
-  margin: 1rem 0;
+  margin: 3rem 0;
 }
 /* Push the video down a little in the evidences block */
 .item-evidences iframe,
@@ -96,9 +96,9 @@ main.reports {
 }
 .evidence-image {
   display: block;
-  width: 200px;       /* new fixed width */
+  width: 300px;       /* new fixed width */
   height: auto;       /* auto-scale height to preserve aspect ratio */
-  margin: 0.75rem 0;
+  margin: 3rem 0;
   border: 1px solid #444;
 }
 
