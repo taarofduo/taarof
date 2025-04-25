@@ -97,7 +97,7 @@ main.reports {
 }
 .evidence-image {
   display: block;
-  width: 300px;       /* new fixed width */
+  width: 200px;       /* new fixed width */
   height: auto;       /* auto-scale height to preserve aspect ratio */
   margin: 3rem 0;
   border: 1px solid #444;
