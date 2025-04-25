@@ -47,8 +47,8 @@ main {
 /* Description styling */
 .report-item p {
   font-size: 12px;
-  text-indent: 0.5em;
-  margin: 0.5rem 0 1rem 0; /* space between title and description */
+  text-indent: 1.0rem;
+  margin: 1.0rem 0 1rem 0; /* space between title and description */
 }
 
 /* Evidences column */
