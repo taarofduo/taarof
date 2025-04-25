@@ -59,7 +59,7 @@ main.reports {
 /* Description styling */
 .report-item p {
   font-size: 12px;
-  text-indent: 0.5em;
+  text-indent: 1em;
   margin: 0.5rem 0 1rem 0;
 }
 
