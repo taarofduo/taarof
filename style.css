@@ -52,14 +52,14 @@ main.reports {
 
 /* Title styling */
 .report-item h3 {
-  font-size: 1.5rem;
+  font-size: 1rem;
   margin: 0;
 }
 
 /* Description styling */
 .report-item p {
   font-size: 12px;
-  text-indent: 1em;
+  text-indent: 1rem;
   margin: 1.0rem 0 1rem 0;
 }
 
