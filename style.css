@@ -1,7 +1,7 @@
 body {
   background-color: #111;
   color: #eee;
-  font-family: 'Georgia', serif;
+  font-family: 'Courier New', monospace;
   display: flex;
   justify-content: center;
   align-items: center;
